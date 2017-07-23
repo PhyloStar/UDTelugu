@@ -4,9 +4,7 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-[UD documentation on Determiners](http://universaldependencies.org/u/pos/DET.html) says "Note that the DET tag includes (pronominal) quantifiers  (words like many, few, several), However, cardinal numerals in the narrow sense (one, five, hundred) are not tagged DET even though some authors would include them in quantifiers. Cardinal numbers have their own tag NUM."
-
-Additionally, there are six categories of determiners:
+[UD documentation on Determiners](http://universaldependencies.org/u/pos/DET.html) says there are six categories of determiners:
 
 >
     articles (a closed class indicating definiteness, specificity or givenness): a, an, the
@@ -33,7 +31,9 @@ For the same Telugu noun above, two demonstrative pronouns (determiners) are:
 Other demonstratives such as అది, ఇది, అవి, ఇవి perhaps should be considered pronouns, since they are not typically used as qualifiers for a noun like above, but are used to refer to some noun. 
 
 **Interrogative Determiners:**
-ఎవరి ఊరు, ఏ ఊరు, దేని ఊరు, 
+ఎవరి ఊరు, ఏ ఊరు, దేని ఊరు
+
+Note: Words such as "ఎవరు" (non-interrogative version of ఎవరి)  should be tagged as Pronouns. 
 
 **Quantity determiners/quantifiers**: 
 
