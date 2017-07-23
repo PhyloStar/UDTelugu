@@ -1,4 +1,4 @@
-sdm
-===
+Universal Dependencies online documentation
+===========================================
 
-Test of gh-pages for online dependency manual
+The Universal Dependencies manual is online [here](http://universaldependencies.org/).
