@@ -22,6 +22,8 @@ Going by this definition, most of the Telugu pronouns (except the personal and r
 If we take one Telugu noun ఊరు, possible possessive pronouns that come with it can be:
 నా ఊరు, నీ ఊరు, మీ ఊరు, మా ఊరు, మన ఊరు, వాళ్ళ ఊరు, వీళ్ళ ఊరు, వీడి ఊరు. ఆమె ఊరు. అతని ఊరు. ఆమె ఊరు. దాని ఊరు
 
+(NOTE: In Bh. Krishnamurthy's book, these are treated as oblique stems of personal pronouns).  
+
 So, all these "pronouns" should be treated as Determiners in UD if they appear as possessives. However, they should be treated as pronouns when they are actually referring to a noun. e.g., "వీడి దగ్గర నా కలం ఉంది." (He has my pen) "వీడి" here is a pronoun, whereas "నా" is still a possessive determiner. 
 
 **Demonstrative Determiners:**
