@@ -7,5 +7,7 @@ shortdef: 'auxiliary verb'
 redirect_from: "ta/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+* Negation that follows the verb
+చెప్ప లేదు  
+చేయ రాదు 
+etc
