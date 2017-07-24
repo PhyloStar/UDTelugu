@@ -10,4 +10,5 @@ redirect_from: "ta/pos/AUX.html"
 * Negation that follows the verb
 చెప్ప లేదు  
 చేయ రాదు 
-etc
+etc  
+Note: Negation verbs can also occur by themselves. In such cases, they should be treated as verbs. 
