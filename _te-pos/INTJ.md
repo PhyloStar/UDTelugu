@@ -6,3 +6,5 @@ shortdef: 'interjection'
 
 This document is a placeholder for the language-specific documentation
 for `INTJ`.
+
+List of INTJ needs to be prepared. (e.g., కదా, అయ్యో etc)
