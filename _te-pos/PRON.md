@@ -7,6 +7,8 @@ shortdef: 'pronoun'
 This document describes Telugu specific documentation for the POS tag PRONOUN.
 (Examples and lists have been compiled from Krishnamurthy and Gwynn (1985))
 
+PronType information needs to be added with Pronoun (even for Pronominal ADJ, ADV, QUANTIFIERS too)
+
 **List of Pronouns**
 
 * Personal pronouns  
