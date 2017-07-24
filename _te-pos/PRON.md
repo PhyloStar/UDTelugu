@@ -61,7 +61,15 @@ This document describes Telugu specific documentation for the POS tag PRONOUN.
 
 ఇది  
 ఇవి
-  
-**List of words that can be pronouns and determiners in UD depending on context** (with examples): 
+
+* Possessive:
+If we take one Telugu noun ఊరు, possible possessive pronouns that come with it can be:
+నా ఊరు, నీ ఊరు, మీ ఊరు, మా ఊరు, మన ఊరు, వాళ్ళ ఊరు, వీళ్ళ ఊరు, వీడి ఊరు. ఆమె ఊరు. అతని ఊరు. ఆమె ఊరు. దాని ఊరు
+
+* Interrogative:
+ఎవరి ఊరు, ఏ ఊరు, దేని ఊరు
+Note: Words such as "ఎవరు" (non-interrogative version of ఎవరి)  should be tagged as Pronouns. 
+
+ 
 
 
