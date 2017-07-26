@@ -4,4 +4,15 @@ title: 'PART'
 shortdef: 'particle'
 ---
 
-As of now, we think we will not be using PART for Telugu. 
+BhK lists the following as particles from various parts of the book:
+గారు 
+గాని 
+పట్టు 
+పద 
+సుమా 
+సుమీ 
+సుమండీ 
+కొద్దీ 
+మట్టుకు
+మటుకు 
+తప్ప
