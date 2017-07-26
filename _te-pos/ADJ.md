@@ -13,3 +13,7 @@ for `ADJ`.
 **Basic Adjectives**: చెరి in చెరిసగం, తలా 
 
 **Nominal adjectives** such as ఇంటి కప్పు are tagged as NOUN.
+
+Whenever a adjective is uninflected, it is tagged as adjective. 
+
+Whenever a adjective is in oblique stem, it is marked as NOUN.
