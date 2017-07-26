@@ -20,3 +20,6 @@ As it was discussed in the above UD for Hungarian paper, we should add a label l
 
 Serial verbs are two (or more) verbs coming in a sequence to indicate an activity (e.g., వెళ్ళి వచ్చాను). In these cases, all the verbs must be connected by compound relation, with a label svc (serial verb construction). e.g., in వెళ్ళి వచ్చాను, it is compound:svc(వెళ్ళి,వచ్చాను). Final verb is the head. 
 
+* Negative verbs
+
+లేదు , లేరు , కాదు, కారు, కాడు , లేడు 
