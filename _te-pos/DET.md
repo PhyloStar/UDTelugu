@@ -38,6 +38,7 @@ Quantifiers with elongated vowel in the end (అన్ని -> అన్నీ)
 * అంతా in అంతా సినిమాకి వెళ్లారు. 
 
 **LIST OF ALL DETERMINERS IN TELUGU**
+
 Non-human singular  
 అంత , ఇంత , ఎంత, కొంత
 
