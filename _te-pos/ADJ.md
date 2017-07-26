@@ -16,4 +16,4 @@ for `ADJ`.
 
 Whenever a adjective is uninflected, it is tagged as adjective. 
 
-Whenever a adjective is in oblique stem, it is marked as NOUN or PRON.
+Whenever a adjective is in oblique stem, it is marked as NOUN or PRON. BhK calls it PRON. Should we simply tag as NOUN?
