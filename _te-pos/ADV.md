@@ -12,3 +12,6 @@ akkaDa, ikkaDa are adverbials without inflection.
 ekkaDa is an interrogative adverbial and should be marked as such.
 
 Whenever an adverbial is in oblique, it should be taken as NOUN.
+
+**Adverbial  adjectives**
+నిన్నటి, అలాటి, పడమటి are examples
