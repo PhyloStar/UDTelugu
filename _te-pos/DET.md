@@ -22,10 +22,10 @@ Although this description may put several Telugu pronouns in this category (poss
 
 **Demonstrative Determiners:**
 For the Telugu noun ఊరు, two demonstrative pronouns (determiners) are:
-ఈ ఊరు, ఆ ఊరు, ఏ ఊరు 
+ఈ ఊరు, ఆ ఊరు,
 Clearly, a determiner, since it modifies nouns.
 
-**Interrogative Determiners:** NONE
+**Interrogative Determiners:**  ఏ ఊరు 
 
 **Quantity determiners/quantifiers**: 
 For the same noun ఊరు, quantity determiners can be: కొన్ని ఊళ్ళు, అన్ని ఊళ్ళు, ఎన్ని ఊళ్ళు, చాలా ఊళ్ళు, బోలెడు ఊళ్ళు, 
