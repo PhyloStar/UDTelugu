@@ -35,6 +35,7 @@ For another noun ఉప్పు (salt), quantity determiners can be: కొం�
 Quantifiers with elongated vowel in the end (అన్ని -> అన్నీ) are treated as Pronouns (Krishnamurthy and Gwynn, 1985) since they are used to refer to nouns. Examples:
 * అన్నీ in అన్నీ అబద్దాలే. 
 * ఏవీ in ఏవీ పుస్తకాలు?
+* అంతా in అంతా సినిమాకి వెళ్లారు. 
 
 **LIST OF ALL DETERMINERS IN TELUGU**
 TODO
