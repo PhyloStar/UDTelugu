@@ -11,3 +11,5 @@ for `ADJ`.
 **Adverbial adjectives**: అలాంటి, అటు వంటి, నిన్నటి 
 
 **Basic Adjectives**: చెరి in చెరిసగం, తలా 
+
+**Nominal adjectives** such as ఇంటి కప్పు are tagged as NOUN.
