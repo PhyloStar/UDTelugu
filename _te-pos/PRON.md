@@ -37,6 +37,10 @@ PronType information needs to be added with Pronoun (even for Pronominal ADJ, AD
 వాండ్లు 
 వాళ్ళు  
 
+* Pronouns referring to distant persons:
+ఆ  
+ఈ  
+
 * Pronouns referring to anything non-human relatively distant from a speaker:
 
 అది   
