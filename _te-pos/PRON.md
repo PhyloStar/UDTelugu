@@ -69,7 +69,7 @@ If we take one Telugu noun ఊరు, possible possessive pronouns that come wit
 నా ఊరు, నీ ఊరు, మీ ఊరు, మా ఊరు, మన ఊరు, వాళ్ళ ఊరు, వీళ్ళ ఊరు, వీడి ఊరు. ఆమె ఊరు. అతని ఊరు. ఆమె ఊరు. దాని ఊరు
 
 * Interrogative:
-ఎవరి ఊరు, ఏ ఊరు, దేని ఊరు
+ఎవరి ఊరు, ఏ ఊరు, దేని ఊరు, ఏమిటి 
 Note: Words such as "ఎవరు" (non-interrogative version of ఎవరి)  should be tagged as Pronouns. 
 
  
