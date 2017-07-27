@@ -17,4 +17,4 @@ Whenever an adverbial is in oblique, it should be taken as NOUN.
 నిన్నటి, అలాటి, పడమటి are examples
 
 **Adverbs**
-ippuDu, ikkaDa
+ippuDu, ikkaDa, eppuDu, iTiiwalee, enduku
