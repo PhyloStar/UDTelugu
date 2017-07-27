@@ -22,3 +22,6 @@ ippuDu, ikkaDa, eppuDu, iTiiwalee, enduku
 **Adverbs modifying verb**
 చాలా చెప్పాడు  
 బాగా చెప్పాడు 
+
+**Adverbial nouns**
+akkaDiki, ippaTiki are derived from adverbials of place and time. These are tagged as **NOUN** since, they can take cases like nouns.
