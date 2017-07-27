@@ -9,9 +9,12 @@ for `ADV`.
 
 akkaDa, ikkaDa are adverbials without inflection.
 
-ekkaDa is an interrogative adverbial and should be marked as such.
+ekkaDa is an interrogative adverbial and should be marked as ADV.
 
 Whenever an adverbial is in oblique, it should be taken as NOUN.
 
 **Adverbial  adjectives**
 నిన్నటి, అలాటి, పడమటి are examples
+
+**Adverbs**
+ippuDu, ikkaDa
