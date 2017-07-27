@@ -18,3 +18,7 @@ Whenever an adverbial is in oblique, it should be taken as NOUN.
 
 **Adverbs**
 ippuDu, ikkaDa, eppuDu, iTiiwalee, enduku
+
+**Adverbs modifying verb**
+చాలా చెప్పాడు  
+బాగా చెప్పాడు 
