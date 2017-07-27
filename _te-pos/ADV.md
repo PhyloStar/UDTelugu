@@ -27,4 +27,4 @@ ippuDu, ikkaDa, eppuDu, iTiiwalee
 akkaDiki, ippaTiki are derived from adverbials of place and time. These are tagged as **NOUN** since, they can take cases like nouns.
 
 **Interrogative adverbials**
-enduku
+enduku, ekkaDa, eppuDu, elaa
