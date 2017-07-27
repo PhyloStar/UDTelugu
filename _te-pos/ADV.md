@@ -17,7 +17,7 @@ Whenever an adverbial is in oblique, it should be taken as NOUN.
 నిన్నటి, అలాటి, పడమటి are examples
 
 **Adverbs**
-ippuDu, ikkaDa, eppuDu, iTiiwalee, enduku
+ippuDu, ikkaDa, eppuDu, iTiiwalee
 
 **Adverbs modifying verb**
 చాలా చెప్పాడు  
@@ -25,3 +25,6 @@ ippuDu, ikkaDa, eppuDu, iTiiwalee, enduku
 
 **Adverbial nouns**
 akkaDiki, ippaTiki are derived from adverbials of place and time. These are tagged as **NOUN** since, they can take cases like nouns.
+
+**Interrogative adverbials**
+enduku
