@@ -23,3 +23,11 @@ Serial verbs are two (or more) verbs coming in a sequence to indicate an activit
 * Negative verbs
 
 లేదు , లేరు , కాదు, కారు, కాడు , లేడు 
+
+* Participles
+
+All participle constructions verbs that behave as adjectives are tagged as VERB but the VerbForm feature is indicated by **Part**
+
+* Gerund
+
+All verbal constructions that act as nouns are tagged as VERB but the VerbForm feature is indicated by **Ger**
