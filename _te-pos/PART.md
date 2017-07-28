@@ -16,3 +16,4 @@ BhK lists the following as particles from various parts of the book:
 మట్టుకు  
 మటుకు   
 తప్ప  
+-raa (intimate form of address)
