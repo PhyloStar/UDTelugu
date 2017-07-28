@@ -28,3 +28,6 @@ akkaDiki, ippaTiki are derived from adverbials of place and time. These are tagg
 
 **Interrogative adverbials**
 enduku, ekkaDa, eppuDu, elaa
+
+**Miscellaneous**
+anduku -- "the reason being", usually follows a verb.
