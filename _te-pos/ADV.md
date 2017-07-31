@@ -31,3 +31,6 @@ enduku, ekkaDa, eppuDu, elaa
 
 **Miscellaneous**
 anduku -- "the reason being", usually follows a verb.
+
+**Adverbials of manner**
+maLLi -- repeating verb.
