@@ -3,6 +3,6 @@ layout: postag
 title: 'SYM'
 shortdef: 'symbol'
 ---
+Usual symbol markers
 
-This document is a placeholder for the language-specific documentation
-for `SYM`.
+% $ # & etc
