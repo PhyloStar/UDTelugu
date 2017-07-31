@@ -7,10 +7,4 @@ shortdef: 'auxiliary verb'
 redirect_from: "ta/pos/AUX.html"
 ---
 
-* Negation that follows the verb
-చెప్ప లేదు  
-చేయ రాదు 
-etc  
-Note: Negation verbs can also occur by themselves. In such cases, they should be treated as verbs. 
-
-I think we remove this page since we can treat such verbs as serial verb constructions. Moreover, by definition, verbs that do not occur by themselves are auxillary. 
+There are no AUX in Telugu. 
