@@ -14,9 +14,13 @@ Some post-positions are:
 నించి/నుంచి from    
 కోసం for, for the sake of  
 తో with (instrument), together with  
-కంటె than, compared to  
+కన్నా, కన్న, కంటె than, compared to  
 అ, న, ని (ఇంట, పైన, అడుగున, పైని) (used only with nouns referring to time, place and direction)  
 ద్వారా, గుండా  through (agent)  
+కూర్చి   (about)  
+గురించి   (about)  
+బట్టి  (because of)
+
 
 Type 2 post-positions - these can also occur as independent words (typically as adverbial Nouns, which we tag as ADV)
 [One feature of these kind of post-positions is that above mentioned post-positions can come as suffixes to these]  
