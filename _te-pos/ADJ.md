@@ -17,7 +17,7 @@ Whenever a adjective is in oblique stem, it is marked as NOUN or PRON. BhK calls
 
 **Nominal adjectives** such as ఇంటి కప్పు are tagged as NOUN.
 
-**Adjectives with a Pronominal suffix** (e.g., మంచివాడు, గొప్పవాడు) will be tagged NOUN, as it was also suggested in BhK. 
+**Adjectives with a Pronominal suffix** (e.g., మంచివాడు, గొప్పవాడు, పెద్దది, చక్కనిది etc.) will be tagged NOUN, as it was also suggested in BhK. 
 
 
 
