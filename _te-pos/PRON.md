@@ -74,8 +74,5 @@ If we take one Telugu noun ఊరు, possible possessive pronouns that come wit
 ఎవరి ఊరు, దేని ఊరు, ఏమిటి, ఏమి, ఏం 
 Note: Words such as "ఎవరు" (non-interrogative version of ఎవరి)  should be tagged as Pronouns. 
 
- * Adjectival pronouns:
- పెద్దది, చిన్నది, ఎర్రవి, చక్కనిది  
- These are pronouns that are derived from adjectives by adding person markers such as ది, వి, డి.
 
 
