@@ -13,6 +13,10 @@ Since Numbers in Telugu can also function as ADJ, ADV and NOUN, Inflected number
 
 In ordinal numbers (e.g., number expressions in మొదటి రోజు, ఒక పాట etc.,) the number words function as ADJ to the following nouns and should be tagged such. [UD guidelines](http://universaldependencies.org/u/pos/NUM.html) suggest the same.
 
+Multiples (రెండురెళ్ళు - two times two) and Denominations (వందల, వందలఓ, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc) are tagged NOUN. 
+
+
+
 
 
 
