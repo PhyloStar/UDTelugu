@@ -4,18 +4,17 @@ title: 'NUM'
 shortdef: 'numeral'
 ---
 
-Uninflected cardnial numbers (including fractions) are treated as NUM tag.
-(e.g., ఒకటి, రెండు, మూడు, 4, IV  etc)  
+Uninflected cardnial numbers (including fractions) are treated as **NUM** tag (e.g., ఒకటి, రెండు, మూడు, 4, IV  etc). Fractions (సగం, పదో వంతు etc.,) will also be treated as **NUM** tag(s). 
 
-In case of multi-word numeric expressions, all words are tagged NUM and connected by a FLAT dependency relation.
+In case of multi-word numeric expressions, all words are tagged **NUM** and connected by a FLAT dependency relation.
 
-Since Numbers in Telugu can also function as ADJ, ADV and NOUN, Inflected numbers will be either of them depending on their syntactic function in the sentence.  
+Numbers in Telugu can also function as ADJ, ADV and NOUN. **Inflected numbers**, when not followed by another number, will be either of these POS depending on their syntactic function in the sentence.
 
-In ordinal numbers (e.g., number expressions in మొదటి రోజు, ఒక పాట etc.,) the number words function as ADJ to the following nouns and should be tagged such. [UD guidelines](http://universaldependencies.org/u/pos/NUM.html) suggest the same.
+In ordinal numbers (e.g., number expressions in మొదటి రోజు, ఒకటో పాట etc.,) the number words function as **ADJ** to the following nouns and should be tagged such. [UD guidelines](http://universaldependencies.org/u/pos/NUM.html) suggest the same.
 
-Multiples (రెండురెళ్ళు - two times two) and Denominations (వందల, వందలఓ, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc) are tagged NOUN. 
+Multiples (రెండురెళ్ళు - two times two) and Denominations (వందల, వందలలో, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc) are tagged **NOUN**. 
 
-
+As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు etc.)
 
 
 
