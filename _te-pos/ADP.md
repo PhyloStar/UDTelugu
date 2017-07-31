@@ -11,22 +11,23 @@ Some post-positions are:
 కి, కు - indicating "to the" relationships, and typically indicate dative case suffix.   
 ని,ను - accusative suffix, typically denoting the object of the sentence.  
 [accusative suffix is optional for inanimate nouns]  
-నించి/నుంచి from    
-కోసం for, for the sake of  
-తో with (instrument), together with  
-కన్నా, కన్న, కంటె than, compared to  
+నించి/నుంచి from (ablative) 
+కోసం for, for the sake of  (purposive) 
+తో with (instrument), together with (comitative)
+కన్నా, కన్న, కంటె than, compared to  (comparative)
 అ, న, ని (ఇంట, పైన, అడుగున, పైని) (used only with nouns referring to time, place and direction)  
 ద్వారా, గుండా  through (agent)  
 కూర్చి   (about)  
 గురించి   (about)  
 బట్టి  (because of)
 
-
 Type 2 post-positions - these can also occur as independent words (typically as adverbial Nouns, which we tag as ADV)
 [One feature of these kind of post-positions is that above mentioned post-positions can come as suffixes to these]  
 
 లో in , లోకి  
-లోపల inside , లోపలికి  
+లోపల inside , లోపలికి   
+(locative)
+
 మీద on, మీదకి, మీద నుంచి  etc  
 కింద under, కిందకి  
 బైట outside  
