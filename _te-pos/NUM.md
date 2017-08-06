@@ -20,7 +20,7 @@ d) In "ఉల్లి ధర నాలుగింతలు అయింది"
 
 * Multiples (రెండురెళ్ళు - two times two) when not appearing as a multi-word numeric expression, and Denominations (వందల, వందలలో, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc) are tagged **NOUN**. 
 
-* As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు - thrice, twice, ten times etc.). But, when they appear as separate words - పది రెట్లు instead of పదిరెట్లు - is it NUM ADV?
+* As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు - thrice, twice, ten times etc.). But, when they appear as separate words - పది రెట్లు instead of పదిరెట్లు - is it NUM NN or NUM ADV? (We have been doing as NUM NN)
 
 
 
