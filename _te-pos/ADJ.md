@@ -7,6 +7,7 @@ shortdef: 'adjective'
 ADJ are indeclinable in Telugu, and they often occur immediately before nouns.
 
 **Adverbial adjectives**: అలాంటి, అటు వంటి, నిన్నటి (Normally adverbs of time or manner, which modify nouns and become adjectives)
+(e.g., నిన్న రాత్రి, నిన్నటి రాత్రి - both నిన్న and నిన్నటి are tagged ADJ)
 
 **Basic Adjectives**: చెరి in చెరిసగం, తలా 
 
