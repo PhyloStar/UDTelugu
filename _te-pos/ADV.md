@@ -23,6 +23,7 @@ anduku -- "the reason being", usually follows a verb.
 
 **Adverbials of manner**
 maLLi -- repeating verb.
+sEpu -- duration
 
 **Adverbs modifying verb**
 చాలా చెప్పాడు  
