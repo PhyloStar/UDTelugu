@@ -6,18 +6,21 @@ shortdef: 'numeral'
 
 Cardinal numbers are treated as **NUM** tag (e.g., ఒకటి, రెండు, మూడు, 4, IV  etc). Fractions (సగం, పదో వంతు, రెండుంబావు etc.,) will also be treated as **NUM** tag(s). In case of multi-word numeric expressions, all words are tagged **NUM** and connected by a FLAT dependency relation.
 
-Numbers in Telugu can also function as ADJ, ADV and NOUN. 
-e.g., 
-a) In the sentence: "నిన్న ఒకడు మా ఇంటికి వచ్చాడు." (Yesterday, oneman/someone came to our house), ఒకడు (one man/someone) is a NOUN.  
-b) In "ఒక పాట పాడండి." (Sing a song), ఒక is a ADJ.
+Numbers in Telugu can also function as ADJ, ADV and NOUN apart from being a NUM. **Inflected numbers**, when not appearing as a multi-word numeric expression, will be either of these POS (ADJ/ADV/NOUN) depending on their syntactic function in the sentence. e.g.,
 
-**Inflected numbers**, when not appearing as a multi-word numeric expression, will be either of these POS (ADJ/ADV/NOUN) depending on their syntactic function in the sentence.
+a) In "ఒక పాట పాడండి." (Sing one song), ఒక is a NUM.
 
-In ordinal numbers (e.g., number expressions in మొదటి రోజు, ఒకటో పాట etc.,) the number words function as **ADJ** to the following nouns and should be tagged such. [UD guidelines](http://universaldependencies.org/u/pos/NUM.html) suggest the same.
+b) In the sentence: "నిన్న ఒకడు మా ఇంటికి వచ్చాడు." (Yesterday, oneman/someone came to our house), ఒకడు (one man/someone) is a NOUN.  
 
-Multiples (రెండురెళ్ళు - two times two) and Denominations (వందల, వందలలో, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc), when not appearing as a multi-word numeric expression, are tagged **NOUN**. 
+c) In "రెండో పాట", "ఒకటవ పాట" (second song, first song) etc., the inflected number word is tagged ADJ.
 
-As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు - thrice, twice, ten times etc.) 
+d) In "ఉల్లి ధర నాలుగింతలు అయింది" (Onion price increased by 4 times), "నాలుగింతలు" (4 times) is tagged ADV.
+
+* In ordinal numbers (e.g., number expressions in మొదటి రోజు, ఒకటో పాట etc.,) the number words function as **ADJ** to the following nouns and should be tagged such. [UD guidelines](http://universaldependencies.org/u/pos/NUM.html) suggest the same.
+
+* Multiples (రెండురెళ్ళు - two times two) and Denominations (వందల, వందలలో, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc), when not appearing as a multi-word numeric expression, are tagged **NOUN**. 
+
+* As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు - thrice, twice, ten times etc.) 
 
 
 
