@@ -18,9 +18,9 @@ d) In "ఉల్లి ధర నాలుగింతలు అయింది"
 
 * In ordinal numbers (e.g., number expressions in మొదటి రోజు, ఒకటో పాట etc.,) the number words function as **ADJ** to the following nouns and should be tagged such. [UD guidelines](http://universaldependencies.org/u/pos/NUM.html) suggest the same.
 
-* Multiples (రెండురెళ్ళు - two times two) and Denominations (వందల, వందలలో, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc), when not appearing as a multi-word numeric expression, are tagged **NOUN**. 
+* Multiples (రెండురెళ్ళు - two times two) when not appearing as a multi-word numeric expression, and Denominations (వందల, వందలలో, వేలలో, రూపాయలు, రూపాయలకి, పైసలు  etc) are tagged **NOUN**. 
 
-* As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు - thrice, twice, ten times etc.) 
+* As UD Guidelines say, multiplicative numerals are **ADV** (e.g., మూడింతలు, రెండింతలు, పదిరెట్లు - thrice, twice, ten times etc.). But, when they appear as separate words - పది రెట్లు instead of పదిరెట్లు - is it NUM ADV?
 
 
 
