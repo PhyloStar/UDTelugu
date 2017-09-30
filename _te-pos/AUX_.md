@@ -7,4 +7,4 @@ shortdef: 'auxiliary verb'
 redirect_from: "ta/pos/AUX.html"
 ---
 
-There are no AUX in Telugu. 
+There are no AUX in Telugu. The negative verbs can be called an AUX, but they also appear as full verbs. So, we are not using this tag for Telugu (at least not for now)
