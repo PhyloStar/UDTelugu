@@ -3,9 +3,7 @@ layout: postag
 title: 'X'
 shortdef: 'other'
 ---
-
-This document is a placeholder for the language-specific documentation
-for `X`.
+We did not use X tag in Telugu POS as the examples from grammar book did not really have such examples that need a X tag. 
 
 From [UD Documentation](http://www.universaldependencies.org/u/pos/X.html):
 
