@@ -4,5 +4,6 @@ title: 'PROPN'
 shortdef: 'proper noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PROPN`.
+Name (or part of the name) of a specific individual or object
+
+[English UD documentation on PROPN](http://universaldependencies.org/u/pos/PROPN.html)
