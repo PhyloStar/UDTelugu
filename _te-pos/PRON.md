@@ -32,5 +32,7 @@ If we take one Telugu noun ఊరు, possible possessive pronouns that come wit
 
 నేను, నీవు, నువ్వు, మేము, మనం, మీరు  (nominative)
 
+నాకు, నీకు, ఆయనకి, ఆయనకు, మీకు (dative)
 
+నిన్ను, నన్ను, ఆయన్ని (accusative)
 
