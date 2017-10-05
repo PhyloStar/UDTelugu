@@ -21,5 +21,5 @@ Two nouns, బియ్యం, జనం, although singular in form, require plu
 Nouns formed out of adjectives/Adjectival Nouns: (మంచివాడు, పెద్దది)  
 Pronominal nouns (మంచివాడిని)
 
-Adverbial Nouns (Nouns of time and place):  నిన్న, మొన్న, నిన్నటి (time); తూర్పు, పడమర, బైట, లోపల (place)
+Adverbial Nouns (Nouns of time and place):  నిన్న, మొన్న, నిన్నటి, కాసేపు, చాలాసేపు, ఇదివరకు, ఇవ్వేళ (time); తూర్పు, పడమర, బైట, లోపల (place)
 
