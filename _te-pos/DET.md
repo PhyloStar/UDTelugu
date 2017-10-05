@@ -32,10 +32,12 @@ For the same noun ఊరు, quantity determiners can be: కొన్ని ఊ
 
 For another noun ఉప్పు (salt), quantity determiners can be: కొంచెం ఉప్పు, ఎక్కువ ఉప్పు, తక్కువ ఉప్పు, ఎంత ఉప్పు, అంత ఉప్పు, కొంత ఉప్పు,
 
-Quantifiers with elongated vowel in the end (అన్ని -> అన్నీ) are treated as Pronouns (Krishnamurthy and Gwynn, 1985) since they are used to refer to nouns. Examples:
+Quantifiers with elongated vowel in the end (అన్ని -> అన్నీ) are sometimes treated as Pronouns (Krishnamurthy and Gwynn, 1985) since they are used to refer to nouns. 
+Examples:
 * అన్నీ in అన్నీ అబద్దాలే. 
 * ఏవీ in ఏవీ పుస్తకాలు?
 * అంతా in అంతా సినిమాకి వెళ్లారు. 
+However, in వాళ్ళు అంతా సినిమాకి వెళ్ళారు, అంతా is a quantifier to the pronoun వాళ్ళు despite it being a elongated vowel.
 
 **EXAMPLES OF DETERMINERS IN TELUGU**
 
