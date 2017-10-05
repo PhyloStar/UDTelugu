@@ -18,8 +18,6 @@ Whenever a adjective is in oblique stem, it is marked as NOUN.
 **Adverbial adjectives**: అలాంటి, అటువంటి (Normally adverbs of time or manner, which modify nouns and become adjectives)
 (Note: నిన్న రాత్రి, నిన్నటి రాత్రి - both నిన్న and నిన్నటి are not tagged ADJ, they are adverbial NOUNS.)
 
-**Inflected Possessives** (e.g., నాది, వాళ్ళది etc) will be tagged as ADJ, as was suggested in BhK, and not as DET as described in UD. 
-
 **Adjectives with a Pronominal suffix** (e.g., మంచివాడు, గొప్పవాడు, పెద్దది, చక్కనిది etc.), typically used to refer to a person, place or thing, will be tagged NOUN, as it was also suggested in BhK. 
 
 
