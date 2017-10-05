@@ -31,6 +31,7 @@ Clearly, a determiner, since it modifies nouns.
 For the same noun ఊరు, quantity determiners can be: కొన్ని ఊళ్ళు, అన్ని ఊళ్ళు, ఎన్ని ఊళ్ళు, చాలా ఊళ్ళు, బోలెడు ఊళ్ళు, 
 
 For another noun ఉప్పు (salt), quantity determiners can be: కొంచెం ఉప్పు, ఎక్కువ ఉప్పు, తక్కువ ఉప్పు, ఎంత ఉప్పు, అంత ఉప్పు, కొంత ఉప్పు,
+[Note: these quantifiers, when used before verbs (e.g., ఎండ ఎక్కువగా ఉంది) will function as ADV.
 
 Quantifiers with elongated vowel in the end (అన్ని -> అన్నీ) are sometimes treated as Pronouns (Krishnamurthy and Gwynn, 1985) since they are used to refer to nouns. 
 Examples:
