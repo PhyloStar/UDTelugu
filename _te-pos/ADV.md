@@ -18,5 +18,5 @@ akkaDiki, ippaTiki are derived from adverbials of place and time. These are tagg
 **Adverbial  adjectives**
 నిన్నటి, అలాటి, పడమటి are examples. They come from ADV, but function as ADJ in the sentence. They are tagged according to their function as ADJ
 
-Words ending in -gaa (చలిగా, ఆకలిగా, ఒంటరిగా, వేడిగా) are generally ADV.
+Words ending in -gaa (చలిగా, ఆకలిగా, ఒంటరిగా, వేడిగా), Reduplicated (non-nominal) words modifying verbs (గలగలా, కిలకిలా, పకపకా),  are generally ADV.
 
