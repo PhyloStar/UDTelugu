@@ -20,4 +20,11 @@ BhK lists the following as particles and as clitics at various parts. We conside
 లే/లెండి (చాలు లే, సరే లెండి)  
 పట్టు, పట్టండి  
 పద, పదండి
+అసలు
+మాత్రాన
+తప్ప
 -raa (intimate form of address)
+
+Other words such as ఏమో, ఏమిటో can appear as PART depending on the context (e.g., గొడుగు మరిచిపోయానో ఏమిటో)
+
+Associated dependency relations (flat, discourse (and sometimes mark?), based on context)
