@@ -23,6 +23,4 @@ Some words from Wiktionary project:
 పాహి
 భళా
 సలాము
-సుమా
-సుమీ
-సుమండీ
+
